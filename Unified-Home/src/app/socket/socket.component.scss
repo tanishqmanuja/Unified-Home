@@ -1,0 +1,55 @@
+mat-card{
+  width: 80vw;
+  margin: 7vw auto;
+  background: rgba(255,255,255,5%);
+}
+
+#graph-container{
+  width: 90%;
+  margin: 1em auto;
+}
+#settings_btn{
+  position: fixed;
+  z-index: 2;
+  top :0.2vw;
+  right: 2vw;
+  box-shadow: none;
+  background: none;
+}
+
+.Cpadding{
+  margin-left: 1.2em;
+}
+
+.example-full-width {
+  width: 80%;
+}
+
+.warning{
+  text-align: center;
+  color: #e57373;
+  font-weight: bold;
+}
+
+.devicebtn-wrapper{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5em;
+  justify-items: center;
+  .devicebtn{
+    width: 30vw;
+    padding: .5em;
+    background: rgba(255,255,255,2%);
+    color: #81C784;
+  }
+}
+
+.smalltext{
+  color:rgba(255,255,255,70%);
+  font-size: .7em;
+}
+
+#resetbtn{
+  position: absolute;
+  right: 16px;
+}

@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "unified-home": {
+      "hosting": {
+        "Unified-Home": [
+          "unified-home"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "pwa": "unified-home"
+  }
+}

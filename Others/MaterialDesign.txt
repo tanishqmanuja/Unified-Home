@@ -1,0 +1,29 @@
+//Material Dark Theme
+
+//Surface Color
+#121212
+
+//Opacity Level - Depth
+Elevation	White Transparency
+00dp		00%
+01dp		05%
+02dp		07%
+03dp		08%
+04dp		09%
+06dp		11%
+08dp		12%
+12dp		14%
+16dp		15%
+24dp		16%
+
+//Coloring
+*must use 50 to 200 shades
+*Primary Color
+	Unsaturated at 200
+*Primary Variant
+	Vinrant 500
+*Secondary Color 
+	More vibrant tha primary at 200
+*Error
+	ex: #CF6679
+

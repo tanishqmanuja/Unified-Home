@@ -1,0 +1,19 @@
+{
+  "hosting": [
+    {
+      "target": "Unified-Home",
+      "public": "dist/Unified-Home",
+      "ignore": [
+        "firebase.json",
+        "**/.*",
+        "**/node_modules/**"
+      ],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}
